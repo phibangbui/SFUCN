@@ -1,0 +1,4 @@
+SFUCN
+=====
+
+SFU Course Notifier
