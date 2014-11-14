@@ -1,2 +1,3 @@
 SFUCN
 Flask==0.10.1
+PyMongo==0.3.0
