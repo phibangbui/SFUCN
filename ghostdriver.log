@@ -1,11 +1,10 @@
 PhantomJS is launching GhostDriver...
-[INFO  - 2014-12-18T21:09:27.142Z] GhostDriver - Main - running on port 60652
-[INFO  - 2014-12-18T21:09:27.183Z] Session [2660edb0-86fa-11e4-89b2-2bbbddb258e3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34","webSecurityEnabled":true}
-[INFO  - 2014-12-18T21:09:27.183Z] Session [2660edb0-86fa-11e4-89b2-2bbbddb258e3] - page.customHeaders:  - {}
-[INFO  - 2014-12-18T21:09:27.183Z] Session [2660edb0-86fa-11e4-89b2-2bbbddb258e3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.8","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"windows-8-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2014-12-18T21:09:27.184Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2660edb0-86fa-11e4-89b2-2bbbddb258e3
-[ERROR - 2014-12-18T21:09:28.383Z] Session [2660edb0-86fa-11e4-89b2-2bbbddb258e3] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'v.replace')
-[ERROR - 2014-12-18T21:09:28.383Z] Session [2660edb0-86fa-11e4-89b2-2bbbddb258e3] - page.onError - stack:
+[INFO  - 2014-12-18T23:35:18.772Z] GhostDriver - Main - running on port 12558
+[INFO  - 2014-12-18T23:35:18.817Z] Session [86c24cd0-870e-11e4-ac21-c9762243bd94] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2014-12-18T23:35:18.817Z] Session [86c24cd0-870e-11e4-ac21-c9762243bd94] - page.customHeaders:  - {}
+[INFO  - 2014-12-18T23:35:18.817Z] Session [86c24cd0-870e-11e4-ac21-c9762243bd94] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.8","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"windows-8-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-12-18T23:35:18.817Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 86c24cd0-870e-11e4-ac21-c9762243bd94
+[ERROR - 2014-12-18T23:35:19.900Z] Session [86c24cd0-870e-11e4-ac21-c9762243bd94] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'v.replace')
+[ERROR - 2014-12-18T23:35:19.900Z] Session [86c24cd0-870e-11e4-ac21-c9762243bd94] - page.onError - stack:
   setErrorImg (https://go.sfu.ca/psp/paprd/EMPLOYEE/EMPL/h/?tab=PAPP_GUEST:72)
   (anonymous function) (https://go.sfu.ca/psp/paprd/EMPLOYEE/EMPL/h/?tab=PAPP_GUEST:2)
-[ERROR - 2014-12-18T21:09:30.113Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1418936970054
