@@ -53,3 +53,5 @@ def check_class_availability():
     pass
 
 get_auth_info(get_session(CATALOGUE_URL))
+
+
