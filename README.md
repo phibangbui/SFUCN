@@ -3,21 +3,23 @@ SFUCN
 
 
 
-This website is split into 4 pages
+This website is split into the following 4 pages:
 
-MAINPAGE
+Main Page
 ========
-First page the website detects on whether the user has a logged in token,
-if not the user is redirected to the login page.
-If the user is logged in then an overview of the site is given.
-User is able to see all the courses they are tracking and the current status of those courses.
+Users can track the current status of all the courses selected.
 
-LOGINPAGE
+It also detects on whether the user has a logged in token.
+- If the user is logged in, an overview of the site will be displayaed.
+- If not, the user will be redirected to the Login Page.
+
+
+Login Page
 ========
 Simple form requesting the users Username/Email and the password that corresponds to it.
 Signup button is located on the same page for if the user does not have an account
 
-SIGNUPPAGE
+Sign Up Page
 ========
 Simple page with a form in the middle where the user inserts the following information in order to create an account:
 - Email (Along with email validation checks)
